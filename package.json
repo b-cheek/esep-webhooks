@@ -1,0 +1,22 @@
+{
+  "name": "esep-webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-cheek/esep-webhooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-cheek/esep-webhooks/issues"
+  },
+  "homepage": "https://github.com/b-cheek/esep-webhooks#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1347.0"
+  }
+}
